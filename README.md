@@ -3,6 +3,8 @@ Project 2 Repository
 
 W200 Project 2 - What is the Home Ice Advantage in the National Hockey League?
 
+MIDS Fall 2018
+
 Robert Bergan
 
 robert.bergan@berkeley.edu
